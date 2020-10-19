@@ -1,0 +1,314 @@
+,station,seq_count
+0,Shaheed Sthal(New Bus Adda),13
+1,Hindon River,14
+2,Arthala,15
+3,Mohan Nagar,16
+4,Shyam park,17
+5,Major Mohit Sharma,18
+6,Raj Bagh,19
+7,Shaheed Nagar,20
+8,Dilshad Garden,21
+9,Jhil Mil,22
+10,Mansarovar Park,23
+11,Shahdara,24
+12,Welcome,25
+13,Seelampur,26
+14,Shastri Park,27
+15,Kashmere Gate,28
+16,Tis Hazari,29
+17,Pul Bangash,30
+18,Pratap Nagar,31
+19,Shastri Nagar,32
+20,Inderlok,33
+21,Kanhaiya Nagar,34
+22,Keshav Puram,35
+23,Netaji Subash Place,36
+24,Kohat Enclave,37
+25,Pitam Pura,38
+26,Rohini East,39
+27,Rohini West,40
+28,Rithala,41
+29,Samaypur Badli,42
+30,Rohini Sector 18-19,43
+31,Haiderpur Badli Mor,44
+32,Jahangirpuri,45
+33,Adarsh Nagar,46
+34,Azadpur,47
+35,Model Town,48
+36,Guru Tegh Bahadur Nagar,49
+37,Vishwavidyalaya,50
+38,Vidhan Sabha,51
+39,Civil Lines,52
+40,Kashmere Gate,53
+41,Chandni Chowk,54
+42,Red Fort,55
+43,Chawri Bazar,56
+44,Jama Masjid,57
+45,New Delhi,58
+46,Rajiv Chowk,59
+47,Cannaught Place,60
+48,Patel Chowk,61
+49, Jantar Mantar,62
+50,Central Secretariat,63
+51,Sansad Bhavan,64
+52,Udyog Bhawan,65
+53,Rashtrapati Bhavan,66
+54,Lok Kalyan Marg,67
+55, Lodhi Gardens,68
+56,Lodhi Gardens,69
+57,Jorbagh,70
+58,Safdarjung Tomb,71
+59,Dilli Haat INA,72
+60,AIIMS,73
+61,Green Park,74
+62,Hauz Khas,75
+63,Malviya Nagar,76
+64,Saket,77
+65,Qutab Minar,78
+66,Qutab Minar,79
+67,Chhattarpur,80
+68,Chhattarpur Temple,81
+69,Sultanpur,82
+70,Ghitorni,83
+71,Arjan Garh,84
+72,Guru Dronacharya,85
+73,Sikandarpur,86
+74,MG Road,87
+75,IFFCO Chowk,88
+76,Huda City Centre,89
+77,Dwarka Sector 21,90
+78,Dwarka Sector 8,91
+79,Dwarka Sector 9,92
+80,Dwarka Sector 10,93
+81,Dwarka Sector 11,94
+82,Dwarka Sector 12,95
+83,Dwarka Sector 13,96
+84,Dwarka Sector 14,97
+85,Dwarka,98
+86,Dwarka Mor,99
+87,Nawada,100
+88,Uttam Nagar West,101
+89,Uttam Nagar East,102
+90,Janak Puri West,103
+91,Janak Puri East,104
+92,Tilak Nagar,105
+93,Subhash Nagar,106
+94,Tagore Garden,107
+95,Rajouri Garden,108
+96,Ramesh Nagar,109
+97,Moti Nagar,110
+98,Kirti Nagar,111
+99,Shadipur,112
+100,Patel Nagar,113
+101,Rajendra Place,114
+102,Karol Bagh,115
+103,Jhandewalan,116
+104,R K Ashram Marg,117
+105,Laxmi Narayan Temple,118
+106,Rajiv Chowk,119
+107,Barakhamba,120
+108,Mandi House,121
+109,Supreme Court (Pragati Maidan),122
+110,Rajghat,123
+111,Shanti Vana,124
+112,Indraprastha,125
+113,Purana Quila,126
+114,Yamuna Bank,127
+115,Akshardham,128
+116,Akshardham,129
+117,Mayur Vihar Phase-1,130
+118,Mayur Vihar Extention,131
+119,New Ashok Nagar,132
+120,Noida Sector 15,133
+121,Noida Sector 16,134
+122,Noida Sector 18,135
+123,Botanical Garden,136
+124,Golf Course,137
+125,Noida City Center,138
+126,Noida Sector 34,139
+127,Noida Sector 52,140
+128,Noida Sector 61,141
+129,Noida Sector 59,142
+130,Noida Sector 62,143
+131,Noida Electronic City,144
+132,New Delhi-Airport Express,145
+133,Shivaji Stadium,146
+134,Gurdwara Bangla Sahib,147
+135,Dhaula Kuan,148
+136,Delhi Aerocity,149
+137,IGI Airport,150
+138,Dwarka Sector 21,151
+139,Inderlok,152
+140,Ashok Park Main,153
+141,Punjabi Bagh,154
+142,Shivaji Park,155
+143,Madipur,156
+144,Paschim Vihar (East),157
+145,Paschim Vihar (West),158
+146,Peera Garhi,159
+147,Udyog Nagar,160
+148,National Museum,161
+149,Maharaja Surajmal Stadium,162
+150,Nangloi,163
+151,Nangloi Railway Station,164
+152,Rajdhani Park,165
+153,Mundka,166
+154,Mundka Industrial Area (MIA),167
+155,Ghevra Metro station,168
+156,Tikri Kalan,169
+157,Tikri Border,170
+158,Pandit Shree Ram Sharma,171
+159,Bahdurgarh City,172
+160,Brigadier Hoshiar Singh,173
+161,Sector 55-66 (Rapid Metro),174
+162,Sector 54 Chowk (Rapid Metro),175
+163,Sector 53-54 (Rapid Metro),176
+164,Sector 42-43 (Rapid Metro),177
+165,DLF Phase 1 (Rapid Metro),178
+166,Sikandarpur (Rapid Metro),179
+167,DLF Phase 2 (Rapid Metro),180
+168,Belvedere Towers (Rapid Metro),181
+169,Cyber City (Rapid Metro),182
+170,Moulsari Avenue (Rapid Metro),183
+171,DLF Phase 3 (Rapid Metro),184
+172,Kashmere Gate,185
+173,Lal Quila,186
+174,Jama Masjid,187
+175,Delhi Gate,188
+176,ITO,189
+177,Mandi House,190
+178,Janpath,191
+179,Central Secretariat,192
+180,Cathedral Church,193
+181,Khan Market,194
+182,India Gate,195
+183,Jawaharlal Nehru Stadium,196
+184, Humayun Tomb,197
+185,Nizamuddin Dargah,198
+186,Salimgarh Fort,199
+187,Jangpura,200
+188,Lajpat Nagar,201
+189,Moolchand,202
+190,Kailash Colony,203
+191,Nehru Place,204
+192, ISKCON Temple,205
+193,Lotus Temple,206
+194,Kalkaji Mandir,207
+195,Kalkaji Temple,208
+196,Govind Puri,209
+197,Okhla,210
+198,Jasola,211
+199,Sarita Vihar,212
+200,Mohan Estate,213
+201,Tughlakabad,214
+202,Tughlaqabad,215
+203,Badarpur Border,216
+204,Sarai,217
+205,N.H.P.C. Chowk,218
+206,Mewala Maharajpur,219
+207,Sector 28 Faridabad,220
+208,Badkal Mor,221
+209,Old Faridabad,222
+210,Neelam Chowk Ajronda,223
+211,Bata Chowk,224
+212,Escorts Mujesar,225
+213,Sant Surdas - Sihi,226
+214,Raja Nahar Singh,227
+215,Janak Puri West,228
+216,Dabri Mor - Janakpuri South,229
+217,Dashrath Puri,230
+218,Palam,231
+219,Sadar Bazaar Cantonment,232
+220,Terminal 1 IGI Airport,233
+221,Shankar Vihar,234
+222,Vasant Vihar,235
+223,Munirka,236
+224,RK Puram,237
+225,IIT Delhi,238
+226,Hauz Khas,239
+227,Panchsheel Park,240
+228,Chirag Delhi,241
+229,Greater Kailash,242
+230,Nehru Enclave,243
+231,Kalkaji Mandir,244
+232,Okhla NSIC,245
+233,Sukhdev Vihar,246
+234,JAMIA MILLIA ISLAMIA,247
+235,Okhla Vihar,248
+236,Jasola Vihar Shaheen Bagh,249
+237,Kalindi Kunj,250
+238,Okhla Bird Sanctuary,251
+239,Botanical Garden,252
+240,Majlis Park,253
+241,Azadpur,254
+242,Shalimar Bagh,255
+243,Netaji Subash Place,256
+244,Shakurpur,257
+245,Punjabi Bagh West,258
+246,ESI BASAI DARAPUR,259
+247,Rajouri Garden,260
+248,Maya Puri,261
+249,Naraina Vihar,262
+250,Delhi Cantt,263
+251,Durgabai Deshmukh South Campus,264
+252,Sir Vishweshwaraiah Moti Bagh,265
+253,Bhikaji Cama Place,266
+254,Sarojini Nagar,267
+255,Dilli Haat INA,268
+256,South Extension,269
+257,Lajpat Nagar,270
+258,Vinobapuri,271
+259,Ashram,272
+260,Sarai Kale Khan Hazrat Nizamuddin,273
+261,Mayur Vihar Phase-1,274
+262,Mayur Vihar Pocket I,275
+263,Trilokpuri Sanjay Lake,276
+264,Vinod Nagar East,277
+265,Mandawali - West Vinod Nagar,278
+266,IP Extension,279
+267,Anand Vihar,280
+268,Karkar Duma,281
+269,Karkarduma Court,282
+270,Krishna Nagar,283
+271,East Azad Nagar,284
+272,Welcome,285
+273,Jaffrabad,286
+274,Maujpur,287
+275,Gokulpuri,288
+276,Johri Enclave,289
+277,Shiv Vihar,290
+278,Yamuna Bank,291
+279,Laxmi Nagar,292
+280,Nirman Vihar,293
+281,Preet Vihar,294
+282,Karkar Duma,295
+283,Anand Vihar,296
+284,Kaushambi,297
+285,Vaishali,298
+286,Ashok Park Main,299
+287,Satguru Ram Singh Marg,300
+288,Kirti Nagar,301
+289,Noida Sector 51,302
+290,Noida Sector 50,303
+291,Noida Sector 76,304
+292,Noida Sector 101,305
+293,Noida Sector 81,306
+294,NSEZ Noida,307
+295,Noida Sector 83,308
+296,Noida Sector 137,309
+297,Noida Sector 142,310
+298,Noida Sector 143,311
+299,Noida Sector 144,312
+300,Noida Sector 145,313
+301,Noida Sector 146,314
+302,Noida Sector 147,315
+303,Noida Sector 148,316
+304,Knowledge Park II,317
+305,Pari Chowk  Greater Noida,318
+306,Alpha 1  Greater Noida,319
+307,Delta 1 Greater Noida,320
+308,GNIDA Office,321
+309,Depot Greater Noida,322
+310,Dwarka,323
+311,Nangli,324
+312,Najafgarh,325
